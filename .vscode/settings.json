@@ -1,0 +1,7 @@
+{
+  "python.formatting.provider": "autopep8",
+  "python.linting.pylintEnabled": false,
+  "python.linting.flake8Enabled": true,
+  "python.linting.enabled": true,
+  "python.pythonPath": "/Users/ryanchan/.pyenv/versions/3.7.3/bin/python"
+}
